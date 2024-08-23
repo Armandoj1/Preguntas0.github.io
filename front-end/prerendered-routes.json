@@ -1,0 +1,9 @@
+{
+  "routes": [
+    "/dashboard",
+    "/dashboard/cambiarPassword",
+    "/inicio",
+    "/inicio/login",
+    "/inicio/register"
+  ]
+}
